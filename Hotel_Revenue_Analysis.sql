@@ -1,5 +1,5 @@
 /* Hotel Revenue Analysis
-Question:
+Questions:
 	1. Does hotel revenue increase every year?
 	2. Does the hotel parking area need to be expanded?
 	3. What trends can we see in the data? (Exploratory analysis)
